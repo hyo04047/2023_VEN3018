@@ -30,4 +30,3 @@ movie_result = data.frame()
 movie_result = rbind(movie_result, data.frame(제목, 평점, 예매율, 개봉))
 
 print(movie_result)
-

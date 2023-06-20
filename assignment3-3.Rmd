@@ -23,15 +23,13 @@ output:
 
 ## Skills {#skills}
 
--   Experienced in system programming, concurrent programming, and optimization methods.
+-   Experienced in DBOS, concurrent programming, and optimization methods.
 
 -   Full experience with DBMS transaction processing and MVCC.
 
 -   Highly skilled in C, C++, python, SQL, R
 
 ## Disclaimer {#disclaimer}
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -41,7 +39,7 @@ Last updated on `r Sys.Date()`.
 
 ### Currently searching for DB engineer
 
-Please note that this is a *real* resume, and I'm really looking for a DBMS engineer or DBA position at the moment. If you are interested in my background and skills, please feel free to contact me.
+I'm looking for a DBMS engineer or DBA position at the moment. If you are interested in my background and skills, please feel free to contact me.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -63,7 +61,7 @@ Cumulative GPA : 4.24 / 4.5 (97)
 
 ## Research Experience {data-icon="laptop"}
 
-### Thesis Research 
+### Thesis Research
 
 Computer Science, Hanyang Univ.
 

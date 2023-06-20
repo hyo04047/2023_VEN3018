@@ -83,16 +83,6 @@ Seoul, Korea
 -   Performed analysis, design, and implementation Bw-tree to improve performance.
 -   Implement Border-collie algorithm to PostgreSQL logging system.
 
-## Volunteer Activities {data-icon="chalkboard-teacher"}
-
-### Introduction to Python Language for Middle/High School Students.
-
-Instructor of Hanyang Software Education Volunteer
-
-Seoul, Korea
-
-2017
-
 ## Additional Information {data-icon="file"}
 
 ### Photography Club for University Students
@@ -106,6 +96,12 @@ President of Club
 Ahnlab Software Reporter for University Students
 
 2018 Fall
+
+### Introduction to Python Language for High School Students.
+
+Instructor of Hanyang Software Education Volunteer
+
+2017
 
 ### Hanyang Computer Security Club
 
